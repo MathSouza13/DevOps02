@@ -1,6 +1,7 @@
 # DevOps02
 
 Ator1
-Ator2
+Ator22222
 Ator3
 Atriz1
+Atriz2
